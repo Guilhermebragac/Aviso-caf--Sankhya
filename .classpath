@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/jape.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/mge-modelcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/api_outros/cuckoo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/sanws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/javax.servlet.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
